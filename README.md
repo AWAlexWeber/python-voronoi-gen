@@ -24,7 +24,7 @@ We then take these shapes and place them randomly as tectonic plates in our worl
 Finally, we use the overlaps on all of the tectconic plates as well as their geology values to generate a conflict map. This conflict map, in combination with the generation of a set of mountains based on high conflict zones, creates our final heightmap and terrian map.
 
 ![Geology Output with Conflicts](https://i.imgur.com/BhotUMK.png)
-![Tectonic Conflict Map](https://i.imgur.com/BhotUMK.png)
+![Tectonic Conflict Map](https://i.imgur.com/FrnlnHp.png)
 ![Final Heightmap](https://i.imgur.com/9mHBiAJ.png)
 ![Final Overview](https://i.imgur.com/8OYyanC.png)
 
