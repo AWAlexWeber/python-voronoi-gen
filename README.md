@@ -1,5 +1,8 @@
-# python-voronoi-gen
+# Python Voronoi Generation
 Using 2D-based Voronoi polygon generation as a base for random terrain generation using a variety of real-world algorithms.
+
+# How to use #
+Download the repository, using pip install all of the base-level requirements found in main.py. Then run main, making configurations as you like.
 
 # Generation overview #
 
