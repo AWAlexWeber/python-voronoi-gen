@@ -36,6 +36,8 @@ Finally, we use the overlaps on all of the tectconic plates as well as their geo
 Using the generated elevations we generate a terrain gradient primarily based off of position closed to the equator but also based on elevation regions. We combine this, with our calculation of the ocean to create humidity zones, which are zones where oceans of different temperatures meet.
 
 ![Temperature Map](https://i.imgur.com/pQ0fQw8.png)
+
+Below we can see the oceans that were generated. Each ocean is assigned an average temperature. The point where oceans of varying temperatures meet create our humidity zones which can be seen below.
 ![Oceanic Map](https://i.imgur.com/yO6wptg.png)
 ![Humidity Zones](https://i.imgur.com/SrE0xtG.png)
 
